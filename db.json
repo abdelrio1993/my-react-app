@@ -1,0 +1,183 @@
+{
+  "roles": [
+    {
+      "id": "1",
+      "name": "ROLE_1",
+      "permissions": [
+        "ETECSA:WRITE",
+        "ETECSA:READ",
+        "ETECSA:DELETE",
+        "GOOGLE:WRITE",
+        "GOOGLE:READ",
+        "GOOGLE:DELETE",
+        "CUPET:WRITE",
+        "CUPET:READ",
+        "CUPET:DELETE"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "ROLE_3",
+      "permissions": [
+        "ETECSA:WRITE",
+        "ETECSA:READ_ACCESS",
+        "GOOGLE:WRITE",
+        "GOOGLE:READ",
+        "CUPET:WRITE",
+        "CUPET:READ"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "ROLE_3",
+      "permissions": [
+        "ETECSA:READ",
+        "GOOGLE:READ_ACCESS",
+        "CUPET:READ"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "ROLE_4",
+      "permissions": [
+        "ETECSA:READ",
+        "GOOGLE:DELETE",
+        "CUPET:READ"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "ROLE_5",
+      "permissions": [
+        "ETECSA:WRITE",
+        "GOOGLE:READ",
+        "CUPET:READ_ACCESS"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "ROLE_6",
+      "permissions": [
+        "ETECSA:READ_ACCESS",
+        "GOOGLE:READ",
+        "CUPET:READ"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "ROLE_7",
+      "permissions": [
+        "ETECSA:DELETE",
+        "ETECSA:READ",
+        "GOOGLE:READ",
+        "GOOGLE:WRITE",
+        "CUPET:READ"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "ROLE_8",
+      "permissions": [
+        "ETECSA:READ",
+        "ETECSA:READ_ACCESS",
+        "GOOGLE:READ",
+        "GOOGLE:DELETE",
+        "CUPET:READ"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "ROLE_9",
+      "permissions": [
+        "ETECSA:READ",
+        "GOOGLE:READ",
+        "CUPET:READ"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "ROLE_10",
+      "permissions": [
+        "ETECSA:READ",
+        "GOOGLE:READ",
+        "CUPET:READ"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "ROLE_11",
+      "permissions": [
+        "ETECSA:READ",
+        "GOOGLE:READ",
+        "CUPET:READ"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "ROLE_12",
+      "permissions": [
+        "ETECSA:READ",
+        "GOOGLE:READ",
+        "CUPET:READ"
+      ]
+    },
+    {
+      "id": "ec039de3-d862-412e-b4dc-57f38f965610",
+      "name": "nuevo",
+      "permissions": [
+        "ETECSA:READ_ACCESS",
+        "ETECSA:READ",
+        "GOOGLE:READ_ACCESS",
+        "GOOGLE:READ",
+        "CUPET:READ_ACCESS",
+        "CUPET:READ"
+      ]
+    },
+    {
+      "id": "078b7655-3f22-4a15-8bcf-0b581c343e6d",
+      "name": "koko",
+      "permissions": [
+        "ETECSA:READ_ACCESS",
+        "ETECSA:READ",
+        "GOOGLE:READ_ACCESS",
+        "GOOGLE:READ",
+        "CUPET:READ_ACCESS",
+        "CUPET:READ"
+      ]
+    },
+    {
+      "id": "ffd3e4fd-3cc1-46e6-b7a2-0840b863a28d",
+      "name": "pepe",
+      "permissions": [
+        "ETECSA:READ_ACCESS",
+        "ETECSA:READ",
+        "GOOGLE:READ_ACCESS",
+        "GOOGLE:READ",
+        "CUPET:READ_ACCESS",
+        "CUPET:READ"
+      ]
+    }
+  ],
+  "isAuthenticated": {
+    "status": true
+  },
+  "login": {
+    "status": true,
+    "message": "User login",
+    "data": {
+      "name": "Aylen Bravo del Rio",
+      "email": "abdelrio@localhost.com",
+      "avatar": "avatar.png"
+    }
+  },
+  "logout": {
+    "status": true,
+    "message": "User logout"
+  },
+  "permissions": [
+    "WRITE",
+    "READ_ACCESS",
+    "READ",
+    "DELETE"
+  ]
+}

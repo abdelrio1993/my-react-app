@@ -1,0 +1,76 @@
+.title-side-bar {
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+  font-size: 20px;
+  text-align: center;
+}
+
+.anticon-menu-fold,
+.anticon-menu-unfold {
+  padding: 1rem;
+  font-size: 1.2rem;
+}
+
+.ant-card-cover img {
+  max-height: 20rem;
+  max-width: 15rem;
+}
+
+/* HEADER */
+.ant-layout-header .btn-logout {
+  top: 12px;
+  float: right;
+  margin-right: 10px;
+}
+
+/* CONTENT */
+.ant-layout-content .img-dashboard {
+  width: 100%;
+  height: auto;
+}
+
+/* MODAL */
+.modal-add-channel .ant-form-item {
+  width: 100%;
+}
+
+/* LOGIN */
+.contaiener-login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+}
+.contaiener-login .ant-card .ant-card-body {
+  text-align: center;
+}
+.contaiener-login img {
+  width: 200px;
+  height: auto;
+}
+.contaiener-login h2 {
+  display: flex;
+  justify-content: center;
+}
+.contaiener-login .ant-btn-primary {
+  width: 100%;
+}
+
+/* HEADER */
+.ant-layout-header .ant-avatar {
+  float: right;
+  margin: 6px;
+}
+.ant-layout-header .user-info {
+  float: right;
+  bottom: 22px;
+  position: relative;
+  width: 160px;
+}
+.ant-layout-header .ant-typography-secondary {
+  position: absolute;
+  top: 50px;
+}
+
